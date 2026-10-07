@@ -1,0 +1,5 @@
+Transaction TXN101 created
+Transaction TXN101 is PROCESSING
+TXN101 | 500 | PROCESSING
+Transaction TXN101 is SUCCESS
+Error: invalid state change
